@@ -72,7 +72,7 @@ var b = "";
 })();
 a = translateNumber(a, data.d, data.inputD);
 b = translateFractional(b, data.d, data.inputD);
-console.log("RESULT: ".concat(a, ".").concat(b));
+console.log("RESULT: " + a + "." + b);
 function translateFractional(n, to, from) {
     if (from === void 0) { from = 10; }
     var dNumber = new bignumber_js_1["default"](0);

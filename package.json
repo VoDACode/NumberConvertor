@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  },
+  "name": "numberconvertor",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoDACode/NumberConvertor.git"
+  },
+  "author": "VoDACode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoDACode/NumberConvertor/issues"
+  },
+  "homepage": "https://github.com/VoDACode/NumberConvertor#readme",
+  "description": {
+    "@types/node": "^18.8.3",
+    "bignumber.js": "^9.1.0"
+  }
+}
